@@ -1,0 +1,593 @@
+{
+  "settings": {
+    "name": "workshop-app",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 25,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "10px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#e25041",
+            "hamburgerColor": "#3d8eb9",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aitie-209x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Learning APP</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"meaning.html\">Meaning of Library&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"social.html\">Social Role</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"objective.html\">Objectives</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"element.html\">Element of Library</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-3",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "The Learning App",
+          "text": "Welcome to the learning App.&nbsp;<br>This App was developed by the Association for Innovative Technology Integration in Education.<br>Track One Training Group",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Developed by: <a href=\"https://aitie.org.ng\">AiTiE</a>&nbsp;",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    },
+    "meaning.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "10px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_params": {
+            "color": "#e25041",
+            "hamburgerColor": "#3d8eb9",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Learning APP</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"meaning.html\">Meaning of Library&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"social.html\">Social Role</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"objective.html\">Objectives</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"element.html\">Element of Library</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Developed by: <a href=\"https://aitie.org.ng\">AiTiE</a>&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "title": "The Meaning of Library",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9",
+          "text": "<p>The origin of the meaning of the word library has been traced to the Latin word “liber” meaning “books”. On the basis of the Latin interpretation, early professionals saw the library as a place where important records of human ideas were organized, processed and disseminated to users for the purposes of posterity and preservation from human and non-human damages. Subsequent library and information science scholars defined or explained the concept of the library based on the prevailing experience at the time such definition emerged.</p><p>The Glossary of Library Terms defines the library as a collection of books and other literary materials kept for reading, study and consultation. Furthermore, the library can be a building, a room or rooms containing a collection of books for use of the public, a portion of the public, members of a society, a public institution or an establishment charged with the responsibility to consult such books.</p>"
+        }
+      ]
+    },
+    "social.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "10px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-a",
+          "_params": {
+            "color": "#e25041",
+            "hamburgerColor": "#3d8eb9",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Learning APP</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"meaning.html\">Meaning of Library&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"social.html\">Social Role</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"objective.html\">Objectives</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"element.html\">Element of Library</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Developed by: <a href=\"https://aitie.org.ng\">AiTiE</a>&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "title": "Social Role of the Library",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-d",
+          "text": "<h4>Library as a Resource/Information Centre</h4><div>The library serves as a resource Centre for all its users. It provides book and non-book materials that can assist users to learn, prepare for examinations, write project or engage in research work. In this respect, library user should be able to go into the library and find the necessary tools required to assist them in the search for knowledge. As an information Centre, the library provides opportunities whereby its users will be able to access information without any stress. In this case, the library must be adequately equipped with information-bearing research on diverse fields of human knowledge, particularly, the materials that fall within the scope of the setting in which the library is located.</div><div><br></div><div><br></div><h4>Library as a Storehouse of Information</h4><div>The library is a storehouse of information when it is stocked with a collection of written, printed, graphic and visual materials that are organized for the use of the clientele. Materials are usually arranged in the library according to a standard form so that users can find it easy to retrieve information from the items. As a physical plant dedicated to the storage of information materials, the library assumes the role of a workshop where people can seek information and acquire knowledge. In doing so, the library will be helping to share or transmit other people’s experiences by reading through their thoughts which are contained either in book or non-book form.</div><div><span style=\"color: rgb(37, 37, 37); font-family: inherit; font-size: 14px; font-weight: bold; line-height: 1.3em;\">Library as a house of collections</span><br></div><div>The responsibility of the library is to develop its collection of varied materials found in the reference, reserve, open shelves, audio-visual serials and documents sections. These collections, which have been carefully selected to meet the peculiar needs of users, however, differ from one library types to the other. This is because libraries are set up to serve different set of people either in an academic environment, in the research setting, in the public, school or special contexts. The collection in each of the groups must be relevant to the needs of the users<br></div><div><br></div>"
+        }
+      ]
+    },
+    "objective.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "10px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-h",
+          "_params": {
+            "color": "#e25041",
+            "hamburgerColor": "#3d8eb9",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Learning APP</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"meaning.html\">Meaning of Library&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"social.html\">Social Role</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"objective.html\">Objectives</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"element.html\">Element of Library</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Developed by: <a href=\"https://aitie.org.ng\">AiTiE</a>&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-j",
+          "title": "Objectives of the Library",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-k",
+          "text": "<h4>Objective of the library</h4><div>The main objective of any library is to disseminate information. However, specific objective of the library vary from one type to the other. These may be&nbsp;</div><ol><li>To enrich curriculum.</li><li>To promote the development of reading skills.</li><li>To support teaching/learning within the school system.</li><li>To encourage research and independent study among student and teachers.</li><li>To cultivate a reading habit at early stage of learning among pupil and student.</li></ol>"
+        }
+      ]
+    },
+    "element.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__section": {
+              "background": "#e25041"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#3d8eb9"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "10px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-l",
+          "_params": {
+            "color": "#e25041",
+            "hamburgerColor": "#3d8eb9",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": true,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobile2",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Learning APP</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"meaning.html\">Meaning of Library&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"social.html\">Social Role</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"objective.html\">Objectives</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"element.html\">Element of Library</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Developed by: <a href=\"https://aitie.org.ng\">AiTiE</a>&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n",
+          "title": "The Basic Element of the Library",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-o",
+          "text": "<h4>According to Fola-Adio et al (2009), a library requires certain elements to be considered so. These include accommodation, organization, personnel, collection development system, users, rules and regulations.</h4><ol><li>&nbsp;<b>Accommodation or Space:</b> A space must be reserved for no other purpose than a library. The space provided must be conducive for carrying library routines and services. The space provided must not be a vacuum; there must be library materials such as books, tables, chairs, computer etc. to occupy the space.</li><li><b>Organization of Materials: </b>The information materials in the library must be properly organized. In essence, they must be catalogued i.e. described pointing out bibliographic information such as author, tittle, edition, place and year of publication etc. They must also be classified i.e. assigned to appropriate subject group(s) and arranged on shelves for easy accessibility and retrieve in a particular order of location.</li><li><b> Personnel or Staff:</b> The library must have people who are trained in the field of librarianship. These are librarians who have acquired sufficient knowledge and skill on how to acquire and organize library materials. They could be holders of Diploma, Bachelor, Master or Doctoral degree in library or/and information science or library studies. Usually the librarians are assisted by other non-professional Library staff.</li><li><b> Users: </b>The major objective of the library is to provide information materials that meet user’s needs. Therefore, there must be users to patronize and utilize its resources.</li><li><b>Collection Development System: </b>The library is a dynamic organization with a collection development system. New materials are acquired to replace the obsolete ones. Relevant and current books and other library material should be made available to users at all time</li><li><b>Rules and Regulations: </b>For proper operation and administration of the library, rules and regulations are normally formulated to be observed by the library patrons.</li></ol><div><br></div>"
+        }
+      ]
+    }
+  }
+}
